@@ -19,10 +19,10 @@ export const artist = {
   },
   /** Hero image — supplied by the artist's team (public/gallery). */
   hero: {
-    src: "/gallery/karan-lakeside.jpg",
-    alt: "Karan Rajput seated on a folding stool by a lake, a ukulele resting against a tent beside him",
+    src: "/gallery/karan-garden.webp",
+    alt: "Karan Rajput in a plaid shirt and glasses on a garden path at golden hour",
     /** Keeps him in frame as the image is cropped: desktop, mobile. */
-    position: { desktop: "25% 50%", mobile: "38% 50%" },
+    position: { desktop: "50% 35%", mobile: "50% 30%" },
   },
   banner: {
     src: "https://yt3.googleusercontent.com/nV7ogU4rWVl4HUzuYgZySnqJw9CQtYTuiRDkowtYi7YCLG-lecauwxIiQUcOdHZLMuilHUmlDg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
