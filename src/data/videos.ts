@@ -27,7 +27,6 @@ export const videos: Video[] = [
   { id: "xNB5-El3qHY", title: "Taur Kdh K", kind: "Official Video", published: "2026-01-12", channel: "Folkstylee Music", releaseId: "1868303324", hasMaxRes: true, embeddable: true },
   { id: "SxpO5lf6VTc", title: "Beimani", kind: "Official Video", published: "2025-11-08", channel: "Karan Rajput", releaseId: "1849862954", embeddable: false },
   { id: "py4sb0YvnnA", title: "Malka", kind: "Visualizer", published: "2025-11-04", channel: "Folkstylee Music", releaseId: "1729157993", hasMaxRes: true, embeddable: true },
-  { id: "txWR9yybFtE", title: "After You (ANKY ft. Karan Rajput)", kind: "Official Video", published: "2025-10-11", channel: "Folkstylee Music", releaseId: "1844059071", hasMaxRes: true, embeddable: true },
   { id: "tchqa2U9DYs", title: "Mehndi", kind: "Official Audio", published: "2025-10-05", channel: "Karan Rajput", releaseId: "1719306177", hasMaxRes: true, embeddable: true },
   { id: "arXVVs_Mdek", title: "Brag", kind: "Official Audio", published: "2025-09-14", channel: "Karan Rajput", releaseId: "1839193905", hasMaxRes: true, embeddable: false },
   { id: "VuiW2dPWfDI", title: "Naina (Unplugged)", kind: "Performance", published: "2025-08-22", channel: "Karan Rajput", releaseId: "1834908593", hasMaxRes: true, embeddable: false },
@@ -50,9 +49,7 @@ export const videos: Video[] = [
   { id: "Z9uM8MIXts8", title: "Dil De Tukde", kind: "Official Video", published: "2022-05-27", channel: "J.B.K Records", releaseId: "1729156458", hasMaxRes: true, embeddable: false },
   { id: "aeBnVW2SCcU", title: "Honsle", kind: "Official Video", published: "2022-05-07", channel: "Folkstylee Music", releaseId: "1729151481", hasMaxRes: true, embeddable: false },
   { id: "UpePm_LsTDA", title: "Sheesha", kind: "Official Video", published: "2021-12-17", channel: "J.B.K Records", releaseId: "1729159310", hasMaxRes: true, embeddable: true },
-  { id: "8PqTCf2bFbI", title: "Reham Karo", kind: "Official Video", published: "2021-06-19", channel: "Hollywood Hills Music Company", releaseId: "1729213758", embeddable: false },
   { id: "TmO0fcqWpDU", title: "Hanju (Aditya Sharma with Karan Rajput)", kind: "Official Video", published: "2021-05-08", channel: "Folkstylee Music", hasMaxRes: true, embeddable: false },
-  { id: "-VbFhaWPUV0", title: "Mai Kisan", kind: "Official Video", published: "2020-12-01", channel: "Folkstylee Music", releaseId: "sp-7GqvRCtCHCBqVddIRhDnEc", hasMaxRes: true, embeddable: false },
   { id: "VMGSoGYeL_U", title: "Tere Shehar", kind: "Official Video", published: "2020-07-03", channel: "Folkstylee Music", releaseId: "1729151481", hasMaxRes: true, embeddable: true },
   { id: "cPnZu3Io3gY", title: "Pulwama (feat. Manu V)", kind: "Official Video", published: "2019-02-15", channel: "UrbanLok", releaseId: "1732247873", hasMaxRes: true, embeddable: true },
 ];

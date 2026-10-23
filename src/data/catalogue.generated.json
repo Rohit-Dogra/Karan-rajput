@@ -240,60 +240,6 @@
       ]
     },
     {
-      "id": "1847580620",
-      "appleId": "1847580620",
-      "title": "Ram 108 Times",
-      "artists": "Karan Rajput",
-      "type": "ep",
-      "releaseDate": "2025-10-20",
-      "trackCount": 1,
-      "label": "Karan Rajput",
-      "genre": "New Age",
-      "explicit": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/fd/67/e1fd67e9-b0e0-ccbe-027b-c99d61fccb64/5063807788712_cover.jpg/1200x1200bb.jpg",
-      "links": {
-        "appleMusic": "https://music.apple.com/in/album/ram-108-times-ep/1847580620",
-        "spotify": "https://open.spotify.com/album/467C8c9XpB7fJTbhicgFCX"
-      },
-      "tracks": [
-        {
-          "title": "Ram 108 Times",
-          "artists": "Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 827,
-          "firstReleased": "2025-10-20",
-          "appleMusic": "https://music.apple.com/in/album/ram-108-times/1847580620?i=1847580659"
-        }
-      ]
-    },
-    {
-      "id": "1844059071",
-      "appleId": "1844059071",
-      "title": "After You",
-      "artists": "Anky & Karan Rajput",
-      "type": "single",
-      "releaseDate": "2025-10-08",
-      "trackCount": 1,
-      "label": "Folkstylee Music",
-      "genre": "Hip-Hop/Rap",
-      "explicit": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/27/84/bc278490-5059-7d7c-d1ea-3cba222d5618/5063807518906_cover.jpg/1200x1200bb.jpg",
-      "links": {
-        "appleMusic": "https://music.apple.com/in/album/after-you-single/1844059071",
-        "spotify": "https://open.spotify.com/album/583zwEHaQpLWc7LnFZdmdr"
-      },
-      "tracks": [
-        {
-          "title": "After You",
-          "artists": "Anky & Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 142,
-          "firstReleased": "2025-10-08",
-          "appleMusic": "https://music.apple.com/in/album/after-you/1844059071?i=1844059074"
-        }
-      ]
-    },
-    {
       "id": "1839193905",
       "appleId": "1839193905",
       "title": "Brag",
@@ -890,33 +836,6 @@
       ]
     },
     {
-      "id": "1704344595",
-      "appleId": "1704344595",
-      "title": "Shri Hanuman Chalisa",
-      "artists": "Karan Rajput",
-      "type": "single",
-      "releaseDate": "2023-08-24",
-      "trackCount": 1,
-      "label": "Folkstylee Music",
-      "genre": "Worldwide",
-      "explicit": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/ea/d7/daead7e9-2c3b-cd1d-766d-5ecc47f9d284/5063346554854_cover.jpg/1200x1200bb.jpg",
-      "links": {
-        "appleMusic": "https://music.apple.com/in/album/shri-hanuman-chalisa-single/1704344595",
-        "spotify": "https://open.spotify.com/album/2dPxb65KCNnE8nj1MKnWte"
-      },
-      "tracks": [
-        {
-          "title": "Shri Hanuman Chalisa",
-          "artists": "Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 524,
-          "firstReleased": "2023-08-24",
-          "appleMusic": "https://music.apple.com/in/album/shri-hanuman-chalisa/1704344595?i=1704344878"
-        }
-      ]
-    },
-    {
       "id": "1704343476",
       "appleId": "1704343476",
       "title": "Gangland",
@@ -1268,33 +1187,6 @@
       ]
     },
     {
-      "id": "1729213758",
-      "appleId": "1729213758",
-      "title": "Reham Karo",
-      "artists": "Karan Rajput",
-      "type": "single",
-      "releaseDate": "2022-08-24",
-      "trackCount": 1,
-      "label": "Folkstylee Music",
-      "genre": "Worldwide",
-      "explicit": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/7f/ab/de7fabf0-bc55-b45f-c484-6800b481ad65/197084089134_cover.jpg/1200x1200bb.jpg",
-      "links": {
-        "appleMusic": "https://music.apple.com/in/album/reham-karo-single/1729213758",
-        "spotify": "https://open.spotify.com/album/3b38yIl2GLt8ZTQK9MxE5c"
-      },
-      "tracks": [
-        {
-          "title": "Reham Karo",
-          "artists": "Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 176,
-          "firstReleased": "2021-06-17",
-          "appleMusic": "https://music.apple.com/in/album/reham-karo/1729213758?i=1729213770"
-        }
-      ]
-    },
-    {
       "id": "1729158941",
       "appleId": "1729158941",
       "title": "Koi Na Koi",
@@ -1345,33 +1237,6 @@
           "durationSec": 234,
           "firstReleased": "2022-05-15",
           "appleMusic": "https://music.apple.com/in/album/dil-de-tukde/1729156458?i=1729156469"
-        }
-      ]
-    },
-    {
-      "id": "1729156927",
-      "appleId": "1729156927",
-      "title": "Duniya",
-      "artists": "Karan Rajput",
-      "type": "single",
-      "releaseDate": "2022-02-27",
-      "trackCount": 1,
-      "label": "Folkstylee Music",
-      "genre": "Worldwide",
-      "explicit": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/56/b1/c756b136-1ae1-8b18-5f43-0d33d9ff106a/196779996764_cover.jpg/1200x1200bb.jpg",
-      "links": {
-        "appleMusic": "https://music.apple.com/in/album/duniya-single/1729156927",
-        "spotify": "https://open.spotify.com/album/72arJRD6gf4MWsr2sd9bxS"
-      },
-      "tracks": [
-        {
-          "title": "Duniya",
-          "artists": "Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 160,
-          "firstReleased": "2022-02-27",
-          "appleMusic": "https://music.apple.com/in/album/duniya/1729156927?i=1729156936"
         }
       ]
     },
@@ -1435,60 +1300,6 @@
       ]
     },
     {
-      "id": "1729151723",
-      "appleId": "1729151723",
-      "title": "Drop",
-      "artists": "Karan Rajput",
-      "type": "single",
-      "releaseDate": "2022-01-17",
-      "trackCount": 1,
-      "label": "UrbanLok",
-      "genre": "Worldwide",
-      "explicit": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/ce/16/0dce1605-a13d-ac39-0155-1ef8e195ce91/196697558662_cover.jpg/1200x1200bb.jpg",
-      "links": {
-        "appleMusic": "https://music.apple.com/in/album/drop-single/1729151723",
-        "spotify": "https://open.spotify.com/album/0s2orqM1hl41vhtWTnMeIY"
-      },
-      "tracks": [
-        {
-          "title": "Drop",
-          "artists": "Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 141,
-          "firstReleased": "2019-03-18",
-          "appleMusic": "https://music.apple.com/in/album/drop/1729151723?i=1729151727"
-        }
-      ]
-    },
-    {
-      "id": "1729151479",
-      "appleId": "1729151479",
-      "title": "Mistake",
-      "artists": "Karan Rajput",
-      "type": "single",
-      "releaseDate": "2022-01-17",
-      "trackCount": 1,
-      "label": "Folkstylee Music",
-      "genre": "Worldwide",
-      "explicit": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/19/05/601905eb-5c64-8160-a0fa-121eeaf0e099/196697520430_cover.jpg/1200x1200bb.jpg",
-      "links": {
-        "appleMusic": "https://music.apple.com/in/album/mistake-single/1729151479",
-        "spotify": "https://open.spotify.com/album/0wetH4pSzCLj9H4dfbYDym"
-      },
-      "tracks": [
-        {
-          "title": "Mistake",
-          "artists": "Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 167,
-          "firstReleased": "2021-06-06",
-          "appleMusic": "https://music.apple.com/in/album/mistake/1729151479?i=1729151488"
-        }
-      ]
-    },
-    {
       "id": "sp-7ADUclViKGynOn3r20Ph9v",
       "title": "L.A",
       "artists": "Karan Rajput",
@@ -1509,31 +1320,6 @@
           "trackNumber": 1,
           "durationSec": 165,
           "firstReleased": "2021-03-20"
-        }
-      ],
-      "note": "Listed on Spotify; not found on Apple Music."
-    },
-    {
-      "id": "sp-7GqvRCtCHCBqVddIRhDnEc",
-      "title": "Mai Kisan",
-      "artists": "Karan Rajput",
-      "type": "single",
-      "releaseDate": "2020-12-09",
-      "trackCount": 1,
-      "label": "FamBeats Studio",
-      "genre": null,
-      "explicit": false,
-      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273039712d9ee5dac98352b7aa3",
-      "links": {
-        "spotify": "https://open.spotify.com/album/7GqvRCtCHCBqVddIRhDnEc"
-      },
-      "tracks": [
-        {
-          "title": "Mai Kisan",
-          "artists": "Karan Rajput",
-          "trackNumber": 1,
-          "durationSec": 116,
-          "firstReleased": "2020-12-09"
         }
       ],
       "note": "Listed on Spotify; not found on Apple Music."
@@ -1564,6 +1350,40 @@
           "appleMusic": "https://music.apple.com/in/album/pulwama-feat-manu-v/1732247873?i=1732247884"
         }
       ]
+    }
+  ],
+  "excluded": [
+    {
+      "id": "1844059071",
+      "title": "After You"
+    },
+    {
+      "id": "1729151723",
+      "title": "Drop"
+    },
+    {
+      "id": "1729156927",
+      "title": "Duniya"
+    },
+    {
+      "id": "sp-7GqvRCtCHCBqVddIRhDnEc",
+      "title": "Mai Kisan"
+    },
+    {
+      "id": "1729151479",
+      "title": "Mistake"
+    },
+    {
+      "id": "1847580620",
+      "title": "Ram 108 Times"
+    },
+    {
+      "id": "1729213758",
+      "title": "Reham Karo"
+    },
+    {
+      "id": "1704344595",
+      "title": "Shri Hanuman Chalisa"
     }
   ]
 }

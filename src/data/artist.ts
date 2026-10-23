@@ -1,3 +1,4 @@
+import { releases } from "@/lib/catalogue";
 import type { LiveEvent, PressItem, SourceLink } from "./types";
 
 /**
@@ -45,18 +46,13 @@ export const artist = {
   labels: ["Folkstylee Music", "Define Records", "J.B.K Records", "UrbanLok", "Pindox Studios", "FamBeats Studios"],
 
   bio: [
-    "Karan Rajput is a Punjabi singer, lyricist and composer from India. He writes his own words — the credits on his official releases read “Singer – Karan Rajput / Lyrics – Karan Rajput” — and on songs like Reham Karo he composed the music too.",
-    "His earliest release on streaming platforms, Pulwama (with Manu V), came out in February 2019. Since then he has put out more than fifty official releases, from the Honsle EP (2022) and the eight-track album Unfold (2024) to Sea to Sky (2026), his seven-track album released under his own name.",
-    "The catalogue moves between moods: romantic Punjabi pop like Naina and Yaar Vasda, harder hip-hop cuts like Gangland, G Type and Sigma, lo-fi reworks, and devotional recordings including Shri Hanuman Chalisa, Shri Ram Stuti and Ram 108 Times.",
+    "Karan Rajput is a Punjabi singer, lyricist and composer from India. He writes his own words: the credits on his official releases read “Singer – Karan Rajput / Lyrics – Karan Rajput”.",
+    "He has put out more than forty official releases, from the Honsle EP (2022) and the eight-track album Unfold (2024) to Sea to Sky (2026), his seven-track album released under his own name.",
+    "The catalogue moves between moods: romantic Punjabi pop like Naina and Yaar Vasda, harder hip-hop cuts like Gangland, G Type and Sigma, lo-fi reworks, and devotional recordings including Shri Ram Stuti and Bhole Sarkar.",
   ],
 
   collaborators: ["Anky", "Jagga Virk", "Ravit Music", "Aditya Sharma", "Sukh Locham", "Manu V", "Mehakdeep Singh", "Folkstylee Music"],
 
-  /** Other artists' releases he is credited on (from the official video descriptions). */
-  credits: [
-    { title: "Hanju", role: "Featured vocalist — Aditya Sharma with Karan Rajput", year: 2021, url: "https://www.youtube.com/watch?v=TmO0fcqWpDU" },
-    { title: "Aagaaz", role: "Music — Manu V", year: 2019, url: "https://www.youtube.com/watch?v=z-reGRsOJ3w" },
-  ],
 
   /**
    * Public booking contact. None has been verified yet, so the booking form runs in
@@ -67,7 +63,7 @@ export const artist = {
 
 /** Milestones that a reader can check by following the link. View counts are as of 23 Oct 2026. */
 export const milestones: { figure: string; label: string; source: SourceLink }[] = [
-  { figure: "53", label: "Official releases across Spotify and Apple Music since 2019", source: { label: "Spotify discography", url: "https://open.spotify.com/artist/3rZGJqExmdvtQ7PquyY8bM/discography/all" } },
+  { figure: String(releases.length), label: "Official releases across Spotify and Apple Music", source: { label: "Spotify discography", url: "https://open.spotify.com/artist/3rZGJqExmdvtQ7PquyY8bM/discography/all" } },
   { figure: "2", label: "Albums — Unfold (2024) and Sea to Sky (2026) — plus the Honsle EP (2022)", source: { label: "Apple Music", url: "https://music.apple.com/in/artist/karan-rajput/1626364025" } },
   { figure: "249K", label: "Views on the Sheesha official video (J.B.K Records)", source: { label: "YouTube", url: "https://www.youtube.com/watch?v=UpePm_LsTDA" } },
   { figure: "156K", label: "Views on the Dil De Tukde official music video (J.B.K Records)", source: { label: "YouTube", url: "https://www.youtube.com/watch?v=Z9uM8MIXts8" } },

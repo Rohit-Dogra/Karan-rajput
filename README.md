@@ -36,7 +36,9 @@ All content is data, so you can update the site without touching any components.
 
 The newest release automatically becomes the Featured release and the "Out now" card in the hero.
 
-Releases that only exist on Spotify (currently *L.A* and *Mai Kisan*) have ids starting with `sp-`. The sync script never touches them.
+Releases that only exist on Spotify (currently *L.A*) have ids starting with `sp-`. The sync script never touches them.
+
+To take a release off the site, delete it from `releases` and add `{ "id", "title" }` to the `excluded` list in the same file. The sync script will never re-add anything in that list.
 
 ### Adding press, events or a booking address
 

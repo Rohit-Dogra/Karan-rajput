@@ -8,6 +8,7 @@
  *   - links to other platforms (Spotify, YouTube Music…) on existing releases
  *   - `note` fields
  *   - releases whose id starts with `sp-` (found on Spotify but not on Apple Music)
+ *   - the `excluded` list — releases deliberately left off the site are never re-added
  *
  * New Apple releases are added with an Apple Music link only; the script prints them so
  * you can paste in the Spotify album URL (open the release on Spotify → Share → Copy link).
@@ -41,11 +42,12 @@ const artwork = (url) => url.replace(/\/\d+x\d+bb\.(jpg|png)$/, "/1200x1200bb.jp
 async function main() {
   const previous = JSON.parse(await readFile(OUT, "utf8"));
   const byId = new Map(previous.releases.map((r) => [r.id, r]));
+  const excluded = new Set((previous.excluded ?? []).map((r) => r.id));
 
   const [albums, songs] = await Promise.all([lookup("album"), lookup("song")]);
   const added = [];
 
-  const fromApple = albums.map((a) => {
+  const fromApple = albums.filter((a) => !excluded.has(String(a.collectionId))).map((a) => {
     const id = String(a.collectionId);
     const old = byId.get(id);
     if (!old) added.push(cleanTitle(a.collectionName));
@@ -78,7 +80,7 @@ async function main() {
     };
   });
 
-  const manual = previous.releases.filter((r) => r.id.startsWith("sp-"));
+  const manual = previous.releases.filter((r) => r.id.startsWith("sp-") && !excluded.has(r.id));
   const releases = [...fromApple, ...manual].sort((a, b) => b.releaseDate.localeCompare(a.releaseDate));
 
   const data = { ...previous, syncedAt: new Date().toISOString().slice(0, 10), releases };

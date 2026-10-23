@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { artist } from "@/data/artist";
 import { collaborators, coverAt, formatDate, releases, releaseTypeLabels } from "@/lib/catalogue";
 import { AppleMusicIcon, ArrowIcon, SpotifyIcon } from "./icons";
 import { Reveal } from "./Reveal";
@@ -13,12 +12,12 @@ export function Discography() {
       {/* Albums & EPs */}
       <div>
         <h3 className="eyebrow mb-8 text-muted">Albums &amp; EPs</h3>
-        <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {longForm.map((r, i) => (
             <Reveal as="li" key={r.id} delay={i * 100}>
               <a href={r.links.spotify ?? r.links.appleMusic} target="_blank" rel="noopener noreferrer" className="group block">
                 <span className="relative block aspect-square overflow-hidden">
-                  <Image src={coverAt(r.cover, 1200)} alt={`${r.title} cover art`} fill sizes="(min-width: 1024px) 23vw, (min-width: 640px) 46vw, 92vw" className="object-cover transition-transform duration-1000 ease-out-expo group-hover:scale-105" />
+                  <Image src={coverAt(r.cover, 1200)} alt={`${r.title} cover art`} fill sizes="(min-width: 1024px) 31vw, (min-width: 640px) 46vw, 92vw" className="object-cover transition-transform duration-1000 ease-out-expo group-hover:scale-105" />
                 </span>
                 <span className="mt-5 flex items-baseline justify-between gap-4 border-b border-line pb-4">
                   <span className="display text-4xl transition-colors group-hover:text-ember">{r.title}</span>
@@ -77,24 +76,6 @@ export function Discography() {
             </Reveal>
           ))}
         </div>
-      </div>
-
-      {/* Credits on other artists' releases */}
-      <div className="grid gap-8 md:grid-cols-12">
-        <h3 className="eyebrow text-muted md:col-span-2">Also credited on</h3>
-        <ul className="grid gap-4 sm:grid-cols-2 md:col-span-10">
-          {artist.credits.map((c) => (
-            <li key={c.title}>
-              <a href={c.url} target="_blank" rel="noopener noreferrer" className="group flex items-baseline justify-between gap-4 border border-line p-5 transition-colors hover:border-paper/50">
-                <span>
-                  <span className="display block text-3xl group-hover:text-ember">{c.title}</span>
-                  <span className="text-sm text-muted">{c.role}</span>
-                </span>
-                <span className="eyebrow text-muted">{c.year}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
       </div>
     </div>
   );
