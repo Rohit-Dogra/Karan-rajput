@@ -1,26 +1,177 @@
 @import "tailwindcss";
 
+/*
+ * Palette — taken from the artist's own imagery:
+ *   ink    the black of the portrait jacket / Sea to Sky sleeve
+ *   sand   the warm studio backdrop of the official portrait
+ *   ember  the red lettering on Sea to Sky and May God
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --ink: #0b0a09;
+  --ink-2: #151311;
+  --ink-3: #201d1a;
+  --line: rgb(241 232 218 / 0.12);
+  --paper: #f1e8da;
+  --sand: #cfae84;
+  --ember: #e5432c;
+  --muted: #a39b90;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-paper: var(--paper);
+  --color-sand: var(--sand);
+  --color-ember: var(--ember);
+  --color-muted: var(--muted);
+  --font-sans: var(--font-archivo), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-instrument), ui-serif, Georgia, serif;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+  background: var(--ink);
+  color-scheme: dark;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--ember);
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ember);
+  outline-offset: 3px;
+}
+
+@utility display {
+  font-family: var(--font-sans);
+  font-stretch: 62%;
+  font-weight: 800;
+  line-height: 0.82;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}
+
+@utility eyebrow {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+@utility grain {
+  position: relative;
+  &::after {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+    opacity: 0.07;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+}
+
+/* ---------- Motion ---------- */
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(0.35em);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.rise {
+  animation: rise 1.1s var(--ease-out-expo) both;
+}
+
+.fade-in {
+  animation: fade 1.2s ease both;
+}
+
+.menu-in {
+  animation: fade 0.25s ease both;
+}
+
+.marquee-track {
+  animation: marquee 60s linear infinite;
+}
+
+/* Scroll-revealed blocks (see components/Reveal.tsx) */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(28px);
+  transition:
+    opacity 0.9s var(--ease-out-expo),
+    transform 0.9s var(--ease-out-expo);
+}
+[data-reveal="in"] {
+  opacity: 1;
+  transform: none;
+}
+
+/* Restrained parallax for the hero portrait, where scroll timelines are supported. */
+@supports (animation-timeline: scroll()) {
+  @keyframes drift {
+    to {
+      transform: translateY(14%) scale(1.04);
+    }
+  }
+  .parallax {
+    animation: drift linear both;
+    animation-timeline: scroll(root);
+    animation-range: 0 100vh;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+  }
+  [data-reveal] {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Hide native search cancel button for the styled search field */
+input[type="search"]::-webkit-search-cancel-button {
+  appearance: none;
 }

@@ -1,0 +1,1569 @@
+{
+  "source": "Apple iTunes Lookup API (artist 1626364025, IN storefront) cross-checked against the Spotify artist discography (3rZGJqExmdvtQ7PquyY8bM)",
+  "syncedAt": "2026-10-23",
+  "releases": [
+    {
+      "id": "6824786393",
+      "appleId": "6824786393",
+      "title": "Adorable",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2026-10-23",
+      "trackCount": 1,
+      "label": "Pindox Studios",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/27/09/2d270905-cc28-f2a9-f942-aea4e81eed95/5064158086595_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/adorable-single/6824786393",
+        "spotify": "https://open.spotify.com/album/1aiIrR9ezBwOSxAwk1SPU6"
+      },
+      "tracks": [
+        {
+          "title": "Adorable",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 146,
+          "firstReleased": "2026-10-23",
+          "appleMusic": "https://music.apple.com/in/album/adorable/6824786393?i=6824786395"
+        }
+      ]
+    },
+    {
+      "id": "6802562244",
+      "appleId": "6802562244",
+      "title": "Rohab",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2026-08-20",
+      "trackCount": 1,
+      "label": "Pindox Studios",
+      "genre": "Pop",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/1b/13/ed1b138f-e3c1-4790-b427-2abe6083a0f1/5064022547801_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/rohab-single/6802562244",
+        "spotify": "https://open.spotify.com/album/0VmaBjlcK10wYMnj1x5Nr4"
+      },
+      "tracks": [
+        {
+          "title": "Rohab",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 169,
+          "firstReleased": "2026-08-20",
+          "appleMusic": "https://music.apple.com/in/album/rohab/6802562244?i=6802562246"
+        }
+      ]
+    },
+    {
+      "id": "6792665194",
+      "appleId": "6792665194",
+      "title": "Aaja Ve",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2026-07-22",
+      "trackCount": 1,
+      "label": "Karan Rajput",
+      "genre": "Pop",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/3a/d3/d43ad38a-0ce8-8d5f-351b-9237e27cb007/5064021438957_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/aaja-ve-single/6792665194",
+        "spotify": "https://open.spotify.com/album/6D9W3jMyOvUlhMqJzK1BoX"
+      },
+      "tracks": [
+        {
+          "title": "Aaja Ve",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 234,
+          "firstReleased": "2026-07-22",
+          "appleMusic": "https://music.apple.com/in/album/aaja-ve/6792665194?i=6792665198"
+        }
+      ]
+    },
+    {
+      "id": "6772915947",
+      "appleId": "6772915947",
+      "title": "Daur",
+      "artists": "Karan Rajput, Sukh Locham & Folkstylee Music",
+      "type": "single",
+      "releaseDate": "2026-05-28",
+      "trackCount": 1,
+      "label": "Pindox Studios",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/cd/90/edcd9016-d394-15fe-b578-f81c60e5b0c8/5063961553959_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/daur-single/6772915947",
+        "spotify": "https://open.spotify.com/album/4ZAObbdugueKb01xbpDZe3"
+      },
+      "tracks": [
+        {
+          "title": "Daur",
+          "artists": "Karan Rajput, Sukh Locham & Folkstylee Music",
+          "trackNumber": 1,
+          "durationSec": 169,
+          "firstReleased": "2026-05-28",
+          "appleMusic": "https://music.apple.com/in/album/daur/6772915947?i=6772915970"
+        }
+      ]
+    },
+    {
+      "id": "1891609533",
+      "appleId": "1891609533",
+      "title": "Sea to Sky",
+      "artists": "Karan Rajput",
+      "type": "album",
+      "releaseDate": "2026-04-16",
+      "trackCount": 7,
+      "label": "Karan Rajput",
+      "genre": "Hip-Hop/Rap",
+      "explicit": true,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/fd/36/7cfd3679-8f69-5932-6989-37a820d7a061/5063960292088_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/sea-to-sky/1891609533",
+        "spotify": "https://open.spotify.com/album/6DXxjDh05NpNYOuMj0dS9D"
+      },
+      "tracks": [
+        {
+          "title": "Jandi Ni",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 145,
+          "firstReleased": "2026-04-16",
+          "appleMusic": "https://music.apple.com/in/album/jandi-ni/1891609533?i=1891609751"
+        },
+        {
+          "title": "May God",
+          "artists": "Karan Rajput",
+          "trackNumber": 2,
+          "durationSec": 139,
+          "firstReleased": "2026-04-16",
+          "appleMusic": "https://music.apple.com/in/album/may-god/1891609533?i=1891609756"
+        },
+        {
+          "title": "Grindin",
+          "artists": "Karan Rajput",
+          "trackNumber": 3,
+          "durationSec": 156,
+          "firstReleased": "2026-04-16",
+          "appleMusic": "https://music.apple.com/in/album/grindin/1891609533?i=1891609770"
+        },
+        {
+          "title": "High Life",
+          "artists": "Karan Rajput",
+          "trackNumber": 4,
+          "durationSec": 113,
+          "firstReleased": "2026-04-16",
+          "appleMusic": "https://music.apple.com/in/album/high-life/1891609533?i=1891609771"
+        },
+        {
+          "title": "Changa Nai",
+          "artists": "Karan Rajput",
+          "trackNumber": 5,
+          "durationSec": 132,
+          "firstReleased": "2026-04-16",
+          "appleMusic": "https://music.apple.com/in/album/changa-nai/1891609533?i=1891609774"
+        },
+        {
+          "title": "Adore",
+          "artists": "Karan Rajput",
+          "trackNumber": 6,
+          "durationSec": 150,
+          "firstReleased": "2026-04-16",
+          "appleMusic": "https://music.apple.com/in/album/adore/1891609533?i=1891609777"
+        },
+        {
+          "title": "Husan",
+          "artists": "Karan Rajput",
+          "trackNumber": 7,
+          "durationSec": 126,
+          "firstReleased": "2026-04-16",
+          "appleMusic": "https://music.apple.com/in/album/husan/1891609533?i=1891610052"
+        }
+      ]
+    },
+    {
+      "id": "1868303324",
+      "appleId": "1868303324",
+      "title": "Taur Kdh K",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2026-01-13",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Punjabi",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/af/16/c8af1633-58af-1456-0a78-db025f88d5e9/5063904283950_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/taur-kdh-k-single/1868303324",
+        "spotify": "https://open.spotify.com/album/61HkBTrLKCOIOVJsZNqcSu"
+      },
+      "tracks": [
+        {
+          "title": "Taur Kdh K",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 203,
+          "firstReleased": "2026-01-13",
+          "appleMusic": "https://music.apple.com/in/album/taur-kdh-k/1868303324?i=1868303331"
+        }
+      ]
+    },
+    {
+      "id": "1849862954",
+      "appleId": "1849862954",
+      "title": "Beimani",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2025-11-08",
+      "trackCount": 1,
+      "label": "Karan Rajput",
+      "genre": "Pop",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/f7/2d/ecf72d58-a91a-3fb3-84e8-5768c0c5ef47/5063858005165_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/beimani-single/1849862954",
+        "spotify": "https://open.spotify.com/album/3RAZzgR2MHTggljfJSNhc7"
+      },
+      "tracks": [
+        {
+          "title": "Beimani",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 120,
+          "firstReleased": "2025-11-08",
+          "appleMusic": "https://music.apple.com/in/album/beimani/1849862954?i=1849862963"
+        }
+      ]
+    },
+    {
+      "id": "1847580620",
+      "appleId": "1847580620",
+      "title": "Ram 108 Times",
+      "artists": "Karan Rajput",
+      "type": "ep",
+      "releaseDate": "2025-10-20",
+      "trackCount": 1,
+      "label": "Karan Rajput",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/fd/67/e1fd67e9-b0e0-ccbe-027b-c99d61fccb64/5063807788712_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/ram-108-times-ep/1847580620",
+        "spotify": "https://open.spotify.com/album/467C8c9XpB7fJTbhicgFCX"
+      },
+      "tracks": [
+        {
+          "title": "Ram 108 Times",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 827,
+          "firstReleased": "2025-10-20",
+          "appleMusic": "https://music.apple.com/in/album/ram-108-times/1847580620?i=1847580659"
+        }
+      ]
+    },
+    {
+      "id": "1844059071",
+      "appleId": "1844059071",
+      "title": "After You",
+      "artists": "Anky & Karan Rajput",
+      "type": "single",
+      "releaseDate": "2025-10-08",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/27/84/bc278490-5059-7d7c-d1ea-3cba222d5618/5063807518906_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/after-you-single/1844059071",
+        "spotify": "https://open.spotify.com/album/583zwEHaQpLWc7LnFZdmdr"
+      },
+      "tracks": [
+        {
+          "title": "After You",
+          "artists": "Anky & Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 142,
+          "firstReleased": "2025-10-08",
+          "appleMusic": "https://music.apple.com/in/album/after-you/1844059071?i=1844059074"
+        }
+      ]
+    },
+    {
+      "id": "1839193905",
+      "appleId": "1839193905",
+      "title": "Brag",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2025-09-14",
+      "trackCount": 1,
+      "label": "Karan Rajput",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/f1/f2/d4f1f289-7ba9-2cfc-9335-ace7ae855ad9/5063807149438_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/brag-single/1839193905",
+        "spotify": "https://open.spotify.com/album/7xsPLn8BvS73LfYjeSXZCk"
+      },
+      "tracks": [
+        {
+          "title": "Brag",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 160,
+          "firstReleased": "2025-09-14",
+          "appleMusic": "https://music.apple.com/in/album/brag/1839193905?i=1839193906"
+        }
+      ]
+    },
+    {
+      "id": "1834908593",
+      "appleId": "1834908593",
+      "title": "Naina (Unplugged)",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2025-08-22",
+      "trackCount": 1,
+      "label": "Karan Rajput",
+      "genre": "Pop",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/f1/50/b3f150f7-f869-96ff-08cc-8425d515f834/5063778867713_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/naina-unplugged-single/1834908593",
+        "spotify": "https://open.spotify.com/album/0cwZ547nl51gLu57dBZU0x"
+      },
+      "tracks": [
+        {
+          "title": "Naina (Unplugged)",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 148,
+          "firstReleased": "2025-08-22",
+          "appleMusic": "https://music.apple.com/in/album/naina-unplugged/1834908593?i=1834908598"
+        }
+      ]
+    },
+    {
+      "id": "1828149258",
+      "appleId": "1828149258",
+      "title": "Yaar Vasda",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2025-07-24",
+      "trackCount": 1,
+      "label": "Karan Rajput",
+      "genre": "Pop",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/51/4d/4a514d99-eddb-4124-4c24-56e2e42c1669/5063778456719_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/yaar-vasda-single/1828149258",
+        "spotify": "https://open.spotify.com/album/32IVIrSidAMyGA7eUgFlaH"
+      },
+      "tracks": [
+        {
+          "title": "Yaar Vasda",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 136,
+          "firstReleased": "2025-07-24",
+          "appleMusic": "https://music.apple.com/in/album/yaar-vasda/1828149258?i=1828149264"
+        }
+      ]
+    },
+    {
+      "id": "1818595878",
+      "appleId": "1818595878",
+      "title": "Mashallah",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2025-06-06",
+      "trackCount": 1,
+      "label": "Karan Rajput",
+      "genre": "Hip-Hop/Rap",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/34/2b/4b342b2a-535c-bf13-5277-c6288cea5801/5063655877903_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/mashallah-single/1818595878",
+        "spotify": "https://open.spotify.com/album/4Pd5siQxAGoFmFrczaqFYv"
+      },
+      "tracks": [
+        {
+          "title": "Mashallah",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 209,
+          "firstReleased": "2025-06-06",
+          "appleMusic": "https://music.apple.com/in/album/mashallah/1818595878?i=1818596114"
+        }
+      ]
+    },
+    {
+      "id": "1810493548",
+      "appleId": "1810493548",
+      "title": "Naina",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2025-04-24",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Pop",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/c1/26/39c126e1-c906-dcb8-c07b-391dbe83db4a/5063655407438_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/naina-single/1810493548",
+        "spotify": "https://open.spotify.com/album/46l5CDMzz8oQsZzqSXuWnf"
+      },
+      "tracks": [
+        {
+          "title": "Naina",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 189,
+          "firstReleased": "2025-04-24",
+          "appleMusic": "https://music.apple.com/in/album/naina/1810493548?i=1810493553"
+        }
+      ]
+    },
+    {
+      "id": "1753467112",
+      "appleId": "1753467112",
+      "title": "Unfold",
+      "artists": "Karan Rajput",
+      "type": "album",
+      "releaseDate": "2024-06-23",
+      "trackCount": 8,
+      "label": "Folkstylee Music",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/b3/73/afb373a1-30ac-748d-7fd0-8e068f3bf762/5063483998450_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/unfold/1753467112",
+        "spotify": "https://open.spotify.com/album/60fYILma2dOaN4uktXNnjv"
+      },
+      "tracks": [
+        {
+          "title": "Naa Dasde",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 151,
+          "firstReleased": "2024-06-23",
+          "appleMusic": "https://music.apple.com/in/album/naa-dasde/1753467112?i=1753467133"
+        },
+        {
+          "title": "That's Y",
+          "artists": "Karan Rajput",
+          "trackNumber": 2,
+          "durationSec": 131,
+          "firstReleased": "2024-06-23",
+          "appleMusic": "https://music.apple.com/in/album/thats-y/1753467112?i=1753467361"
+        },
+        {
+          "title": "Liar",
+          "artists": "Karan Rajput",
+          "trackNumber": 3,
+          "durationSec": 182,
+          "firstReleased": "2024-06-23",
+          "appleMusic": "https://music.apple.com/in/album/liar/1753467112?i=1753467374"
+        },
+        {
+          "title": "Leave It",
+          "artists": "Karan Rajput & Ravit Music",
+          "trackNumber": 4,
+          "durationSec": 182,
+          "firstReleased": "2024-06-23",
+          "appleMusic": "https://music.apple.com/in/album/leave-it/1753467112?i=1753467540"
+        },
+        {
+          "title": "Ranjhe",
+          "artists": "Karan Rajput",
+          "trackNumber": 5,
+          "durationSec": 151,
+          "firstReleased": "2024-06-23",
+          "appleMusic": "https://music.apple.com/in/album/ranjhe/1753467112?i=1753467550"
+        },
+        {
+          "title": "Maa",
+          "artists": "Karan Rajput",
+          "trackNumber": 6,
+          "durationSec": 273,
+          "firstReleased": "2022-10-16",
+          "appleMusic": "https://music.apple.com/in/album/maa/1753467112?i=1753467775"
+        },
+        {
+          "title": "Statement",
+          "artists": "Karan Rajput",
+          "trackNumber": 7,
+          "durationSec": 163,
+          "firstReleased": "2024-06-23",
+          "appleMusic": "https://music.apple.com/in/album/statement/1753467112?i=1753467902"
+        },
+        {
+          "title": "Kle Kle",
+          "artists": "Karan Rajput",
+          "trackNumber": 8,
+          "durationSec": 166,
+          "firstReleased": "2024-05-24",
+          "appleMusic": "https://music.apple.com/in/album/kle-kle/1753467112?i=1753467916"
+        }
+      ]
+    },
+    {
+      "id": "1747452767",
+      "appleId": "1747452767",
+      "title": "Kle Kle",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-05-24",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/5a/64/7e5a64ce-54db-c20a-9b56-dcfd8920eda8/5063483695618_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/kle-kle-single/1747452767",
+        "spotify": "https://open.spotify.com/album/7aJrwuNsBfQ7NDogP1bNst"
+      },
+      "tracks": [
+        {
+          "title": "Kle Kle",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 166,
+          "firstReleased": "2024-05-24",
+          "appleMusic": "https://music.apple.com/in/album/kle-kle/1747452767?i=1747453139"
+        }
+      ]
+    },
+    {
+      "id": "1745086456",
+      "appleId": "1745086456",
+      "title": "Be Mine",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-05-10",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/4e/b6/e74eb615-6f92-6fbc-e01c-17405a8ec320/5063483579451_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/be-mine-single/1745086456",
+        "spotify": "https://open.spotify.com/album/74ZKR3MePSw4iVVqmpvAX2"
+      },
+      "tracks": [
+        {
+          "title": "Be Mine",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 198,
+          "firstReleased": "2024-05-10",
+          "appleMusic": "https://music.apple.com/in/album/be-mine/1745086456?i=1745086763"
+        }
+      ]
+    },
+    {
+      "id": "1742160407",
+      "appleId": "1742160407",
+      "title": "Sigma",
+      "artists": "Anky & Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-04-24",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/c4/06/c1c4064c-a367-3e91-49fa-fa0b4204a9d0/5063483431933_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/sigma-single/1742160407",
+        "spotify": "https://open.spotify.com/album/5U0AWFpRyQekAPFPttjVDO"
+      },
+      "tracks": [
+        {
+          "title": "Sigma",
+          "artists": "Karan Rajput & Anky",
+          "trackNumber": 1,
+          "durationSec": 101,
+          "firstReleased": "2024-04-24",
+          "appleMusic": "https://music.apple.com/in/album/sigma/1742160407?i=1742160757"
+        }
+      ]
+    },
+    {
+      "id": "1740133083",
+      "appleId": "1740133083",
+      "title": "Mundri",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-04-11",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/cb/ed/0ccbed9e-efa6-74b5-401a-b39d334faaba/5063483315660_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/mundri-single/1740133083",
+        "spotify": "https://open.spotify.com/album/5BkvQzJo3FecY4kG1sC4Te"
+      },
+      "tracks": [
+        {
+          "title": "Mundri",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 200,
+          "firstReleased": "2024-04-11",
+          "appleMusic": "https://music.apple.com/in/album/mundri/1740133083?i=1740133338"
+        }
+      ]
+    },
+    {
+      "id": "1729781466",
+      "appleId": "1729781466",
+      "title": "Bewafai",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-02-09",
+      "trackCount": 1,
+      "label": "Define Records",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/61/c2/c361c23e-6035-ec5e-97ff-87d7516bb610/5063413829823_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/bewafai-single/1729781466",
+        "spotify": "https://open.spotify.com/album/6XWsKvlBofIdhHcQnEPu2y"
+      },
+      "tracks": [
+        {
+          "title": "Bewafai",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 201,
+          "firstReleased": "2024-02-09",
+          "appleMusic": "https://music.apple.com/in/album/bewafai/1729781466?i=1729782081"
+        }
+      ]
+    },
+    {
+      "id": "1817643134",
+      "appleId": "1817643134",
+      "title": "G Type",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-02-03",
+      "trackCount": 1,
+      "label": "Define Records",
+      "genre": "Worldwide",
+      "explicit": true,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/17/dd/6717ddf8-e8a2-e0f1-4a60-880c9a2874f1/5063655825362_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/g-type-single/1817643134",
+        "spotify": "https://open.spotify.com/album/74VGxR45gmDFcQOMzurGTE"
+      },
+      "tracks": [
+        {
+          "title": "G Type",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 201,
+          "firstReleased": "2024-02-03",
+          "appleMusic": "https://music.apple.com/in/album/g-type/1817643134?i=1817643137"
+        }
+      ]
+    },
+    {
+      "id": "1727330394",
+      "appleId": "1727330394",
+      "title": "G Type",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-01-28",
+      "trackCount": 1,
+      "label": "Define Records",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/3f/ee/243feee3-6d91-671a-01d9-b8ea6f5d4cf6/5063413694452_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/g-type-single/1727330394"
+      },
+      "tracks": [
+        {
+          "title": "G Type",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 192,
+          "firstReleased": "2024-01-28",
+          "appleMusic": "https://music.apple.com/in/album/g-type/1727330394?i=1727330571"
+        }
+      ],
+      "note": "Earlier version of G Type (3:12), listed on Apple Music only."
+    },
+    {
+      "id": "1725022062",
+      "appleId": "1725022062",
+      "title": "Cadaques",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2024-01-12",
+      "trackCount": 1,
+      "label": "Define Records",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/d1/70/3dd17023-0db4-c572-0955-204741257bc3/5063413578011_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/cadaques-single/1725022062",
+        "spotify": "https://open.spotify.com/album/5x0ri7DpM4w91PAr2Foj53"
+      },
+      "tracks": [
+        {
+          "title": "Cadaques",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 152,
+          "firstReleased": "2024-01-12",
+          "appleMusic": "https://music.apple.com/in/album/cadaques/1725022062?i=1725022338"
+        }
+      ]
+    },
+    {
+      "id": "1719306177",
+      "appleId": "1719306177",
+      "title": "Mehndi",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-12-02",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/6e/29/1d6e2904-3d29-d59a-5a2f-2497d5cd167b/5063413338875_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/mehndi-single/1719306177",
+        "spotify": "https://open.spotify.com/album/5YMoL7gDOTfWsZTog7Up26"
+      },
+      "tracks": [
+        {
+          "title": "Mehndi",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 185,
+          "firstReleased": "2023-12-02",
+          "appleMusic": "https://music.apple.com/in/album/mehndi/1719306177?i=1719306192"
+        }
+      ]
+    },
+    {
+      "id": "1713998038",
+      "appleId": "1713998038",
+      "title": "Happy Birthday",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-10-29",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "New Age",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/d0/58/36d05851-5870-a3e3-394d-6bbf716c1380/5063413105606_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/happy-birthday-single/1713998038",
+        "spotify": "https://open.spotify.com/album/245PdUlt7x1AG3nSuQTMaJ"
+      },
+      "tracks": [
+        {
+          "title": "Happy Birthday",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 178,
+          "firstReleased": "2023-10-29",
+          "appleMusic": "https://music.apple.com/in/album/happy-birthday/1713998038?i=1713998039"
+        }
+      ]
+    },
+    {
+      "id": "1713419849",
+      "appleId": "1713419849",
+      "title": "Homies",
+      "artists": "Anky & Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-10-26",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5d/b1/2b/5db12be5-2cbe-f5f0-7943-51c5744ceaeb/5063413077187_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/homies-single/1713419849",
+        "spotify": "https://open.spotify.com/album/1SqevWPQXXJEZnW3RyGJ9J"
+      },
+      "tracks": [
+        {
+          "title": "Homies",
+          "artists": "Karan Rajput & Anky",
+          "trackNumber": 1,
+          "durationSec": 115,
+          "firstReleased": "2023-10-26",
+          "appleMusic": "https://music.apple.com/in/album/homies/1713419849?i=1713419863"
+        }
+      ]
+    },
+    {
+      "id": "1712169949",
+      "appleId": "1712169949",
+      "title": "Afsana",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-10-19",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/37/a6/fb37a609-32e8-217e-6e2c-bb7497c4992b/5063413008143_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/afsana-single/1712169949",
+        "spotify": "https://open.spotify.com/album/5Gjs4hoqRC2UnDe0pKoLSp"
+      },
+      "tracks": [
+        {
+          "title": "Afsana",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 120,
+          "firstReleased": "2023-10-19",
+          "appleMusic": "https://music.apple.com/in/album/afsana/1712169949?i=1712170015"
+        }
+      ]
+    },
+    {
+      "id": "1709554497",
+      "appleId": "1709554497",
+      "title": "Hikk",
+      "artists": "Karan Rajput & Ravit Music",
+      "type": "single",
+      "releaseDate": "2023-09-29",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/20/1b/88201bb8-a4eb-584b-a7a4-bc0534680c20/5063346893670_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/hikk-single/1709554497",
+        "spotify": "https://open.spotify.com/album/5hl11nCzF8G8JXCetDIJ2p"
+      },
+      "tracks": [
+        {
+          "title": "Hikk",
+          "artists": "Karan Rajput & Ravit Music",
+          "trackNumber": 1,
+          "durationSec": 169,
+          "firstReleased": "2023-09-29",
+          "appleMusic": "https://music.apple.com/in/album/hikk/1709554497?i=1709554499"
+        }
+      ]
+    },
+    {
+      "id": "1707013230",
+      "appleId": "1707013230",
+      "title": "Begairat",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-09-12",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f7/e2/5f/f7e25f15-8fc2-b8cf-110c-788558b71175/5063346777390_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/begairat-single/1707013230",
+        "spotify": "https://open.spotify.com/album/5owGRDy9ymwVlH65Zb19ZD"
+      },
+      "tracks": [
+        {
+          "title": "Begairat",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 226,
+          "firstReleased": "2023-09-12",
+          "appleMusic": "https://music.apple.com/in/album/begairat/1707013230?i=1707013243"
+        }
+      ]
+    },
+    {
+      "id": "1704344595",
+      "appleId": "1704344595",
+      "title": "Shri Hanuman Chalisa",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-08-24",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/ea/d7/daead7e9-2c3b-cd1d-766d-5ecc47f9d284/5063346554854_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/shri-hanuman-chalisa-single/1704344595",
+        "spotify": "https://open.spotify.com/album/2dPxb65KCNnE8nj1MKnWte"
+      },
+      "tracks": [
+        {
+          "title": "Shri Hanuman Chalisa",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 524,
+          "firstReleased": "2023-08-24",
+          "appleMusic": "https://music.apple.com/in/album/shri-hanuman-chalisa/1704344595?i=1704344878"
+        }
+      ]
+    },
+    {
+      "id": "1704343476",
+      "appleId": "1704343476",
+      "title": "Gangland",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-08-24",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/81/9b/5b819b92-7127-2ea1-259c-a2c3df50914d/5063346578300_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/gangland-single/1704343476",
+        "spotify": "https://open.spotify.com/album/17la3gP0dlWdQRI3K2ItyP"
+      },
+      "tracks": [
+        {
+          "title": "Gangland",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 219,
+          "firstReleased": "2023-08-24",
+          "appleMusic": "https://music.apple.com/in/album/gangland/1704343476?i=1704343736"
+        }
+      ]
+    },
+    {
+      "id": "1691836020",
+      "appleId": "1691836020",
+      "title": "Case Chaldee",
+      "artists": "Karan Rajput & Jagga Virk",
+      "type": "single",
+      "releaseDate": "2023-06-08",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/3b/f3/a73bf37b-acbb-f1be-851b-cb97308bcaa3/5063268817341_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/case-chaldee-single/1691836020",
+        "spotify": "https://open.spotify.com/album/2D9wIIlv9eH3VRLsvdBwnE"
+      },
+      "tracks": [
+        {
+          "title": "Case Chaldee",
+          "artists": "Karan Rajput & Jagga Virk",
+          "trackNumber": 1,
+          "durationSec": 155,
+          "firstReleased": "2023-06-08",
+          "appleMusic": "https://music.apple.com/in/album/case-chaldee/1691836020?i=1691836029"
+        }
+      ]
+    },
+    {
+      "id": "1729212279",
+      "appleId": "1729212279",
+      "title": "L.A. (Lofi)",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-05-28",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/95/f7/0295f740-1243-e780-84a8-8c88f0e7182d/197714164491_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/l-a-lofi-single/1729212279",
+        "spotify": "https://open.spotify.com/album/6QJ6f4YENamBZbMUq63cJ8"
+      },
+      "tracks": [
+        {
+          "title": "L.A. (Lofi)",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 174,
+          "firstReleased": "2023-05-28",
+          "appleMusic": "https://music.apple.com/in/album/l-a-lofi/1729212279?i=1729212573"
+        }
+      ]
+    },
+    {
+      "id": "1729142523",
+      "appleId": "1729142523",
+      "title": "Sheesha (Lofi)",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-05-03",
+      "trackCount": 1,
+      "label": "JBK Records",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/36/2a/16362ab0-f346-8810-4501-ebeda4609e5c/197802251508_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/sheesha-lofi-single/1729142523",
+        "spotify": "https://open.spotify.com/album/6zSlTGx42LQwrxc1RRKz7A"
+      },
+      "tracks": [
+        {
+          "title": "Sheesha (Lofi)",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 193,
+          "firstReleased": "2023-05-03",
+          "appleMusic": "https://music.apple.com/in/album/sheesha-lofi/1729142523?i=1729142709"
+        }
+      ]
+    },
+    {
+      "id": "1729142669",
+      "appleId": "1729142669",
+      "title": "Kamayi",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-04-13",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/07/03/a6070352-91be-c982-543d-5ed603a68ff1/197745779367_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/kamayi-single/1729142669",
+        "spotify": "https://open.spotify.com/album/06Mgd7ZTyVdfEtOm3oujBw"
+      },
+      "tracks": [
+        {
+          "title": "Kamayi",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 112,
+          "firstReleased": "2023-04-13",
+          "appleMusic": "https://music.apple.com/in/album/kamayi/1729142669?i=1729142679"
+        }
+      ]
+    },
+    {
+      "id": "1729145944",
+      "appleId": "1729145944",
+      "title": "Shri Ram Stuti",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-03-30",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/0a/6e/480a6e1b-ec08-b72b-58f2-cd043ec94cd1/197687032520_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/shri-ram-stuti-single/1729145944",
+        "spotify": "https://open.spotify.com/album/3CEkuMBeRAMCAVxpDLpuaV"
+      },
+      "tracks": [
+        {
+          "title": "Shri Ram Stuti",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 281,
+          "firstReleased": "2023-03-30",
+          "appleMusic": "https://music.apple.com/in/album/shri-ram-stuti/1729145944?i=1729145948"
+        }
+      ]
+    },
+    {
+      "id": "1729160261",
+      "appleId": "1729160261",
+      "title": "Koi Na Koi (Lofi)",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-03-12",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/2e/08/642e0864-a3fd-22be-7e4e-38e37d9199ec/197686389342_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/koi-na-koi-lofi-single/1729160261",
+        "spotify": "https://open.spotify.com/album/4FOOvsujdRd1BCj26jDKuj"
+      },
+      "tracks": [
+        {
+          "title": "Koi Na Koi (Lofi)",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 140,
+          "firstReleased": "2023-03-12",
+          "appleMusic": "https://music.apple.com/in/album/koi-na-koi-lofi/1729160261?i=1729160486"
+        }
+      ]
+    },
+    {
+      "id": "1729161367",
+      "appleId": "1729161367",
+      "title": "6vi Vaari Pyar",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-03-03",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/69/53/b4695380-2c62-3f10-6678-b3b9fa2e231a/197629455431_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/6vi-vaari-pyar-single/1729161367",
+        "spotify": "https://open.spotify.com/album/1goj5m6e3oKp3sME69eNSN"
+      },
+      "tracks": [
+        {
+          "title": "6vi Vaari Pyar",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 182,
+          "firstReleased": "2023-02-24",
+          "appleMusic": "https://music.apple.com/in/album/6vi-vaari-pyar/1729161367?i=1729161538"
+        }
+      ]
+    },
+    {
+      "id": "1729159310",
+      "appleId": "1729159310",
+      "title": "Sheesha",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-02-20",
+      "trackCount": 1,
+      "label": "JBK Records",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b4/ed/f8/b4edf83a-109e-7d7c-8a07-5fcbe20a5bdf/197632050777_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/sheesha-single/1729159310",
+        "spotify": "https://open.spotify.com/album/3ATWgwBjEmxOD8lKW4FZzY"
+      },
+      "tracks": [
+        {
+          "title": "Sheesha",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 182,
+          "firstReleased": "2021-12-18",
+          "appleMusic": "https://music.apple.com/in/album/sheesha/1729159310?i=1729159319"
+        }
+      ]
+    },
+    {
+      "id": "1729159226",
+      "appleId": "1729159226",
+      "title": "Bhole Sarkar",
+      "artists": "Karan Rajput & Aditya Sharma",
+      "type": "single",
+      "releaseDate": "2023-02-15",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f5/04/b4/f504b4fa-3005-8c17-ef53-3218b2c4d094/197632480154_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/bhole-sarkar-single/1729159226",
+        "spotify": "https://open.spotify.com/album/3vE61DJmCShosyWO6kBFh6"
+      },
+      "tracks": [
+        {
+          "title": "Bhole Sarkar",
+          "artists": "Karan Rajput & Aditya Sharma",
+          "trackNumber": 1,
+          "durationSec": 212,
+          "firstReleased": "2023-02-15",
+          "appleMusic": "https://music.apple.com/in/album/bhole-sarkar/1729159226?i=1729159246"
+        }
+      ]
+    },
+    {
+      "id": "1729159970",
+      "appleId": "1729159970",
+      "title": "Chahat",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2023-02-06",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/bd/24/cebd245f-8dd3-c029-0561-451c915d20cc/197547143519_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/chahat-single/1729159970",
+        "spotify": "https://open.spotify.com/album/65TH1jqfC7YMBLtQjYSiuw"
+      },
+      "tracks": [
+        {
+          "title": "Chahat",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 240,
+          "firstReleased": "2023-02-06",
+          "appleMusic": "https://music.apple.com/in/album/chahat/1729159970?i=1729159977"
+        }
+      ]
+    },
+    {
+      "id": "1729157993",
+      "appleId": "1729157993",
+      "title": "Malka",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-12-25",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/46/ea/d546eac6-530e-4e64-2573-04bff0b1bd67/197508416348_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/malka-single/1729157993",
+        "spotify": "https://open.spotify.com/album/1jwa5fUr6ph1T2HDfuAmTz"
+      },
+      "tracks": [
+        {
+          "title": "Malka",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 161,
+          "firstReleased": "2022-12-25",
+          "appleMusic": "https://music.apple.com/in/album/malka/1729157993?i=1729158000"
+        }
+      ]
+    },
+    {
+      "id": "1729158263",
+      "appleId": "1729158263",
+      "title": "Maa",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-10-16",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/5b/a7/7e5ba77e-bb80-8c1f-5786-ef01e1f60185/197274160131_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/maa-single/1729158263",
+        "spotify": "https://open.spotify.com/album/0fDtjrZPR8e3EzGahQZo4f"
+      },
+      "tracks": [
+        {
+          "title": "Maa",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 273,
+          "firstReleased": "2022-10-16",
+          "appleMusic": "https://music.apple.com/in/album/maa/1729158263?i=1729158271"
+        }
+      ]
+    },
+    {
+      "id": "1729213758",
+      "appleId": "1729213758",
+      "title": "Reham Karo",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-08-24",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/7f/ab/de7fabf0-bc55-b45f-c484-6800b481ad65/197084089134_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/reham-karo-single/1729213758",
+        "spotify": "https://open.spotify.com/album/3b38yIl2GLt8ZTQK9MxE5c"
+      },
+      "tracks": [
+        {
+          "title": "Reham Karo",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 176,
+          "firstReleased": "2021-06-17",
+          "appleMusic": "https://music.apple.com/in/album/reham-karo/1729213758?i=1729213770"
+        }
+      ]
+    },
+    {
+      "id": "1729158941",
+      "appleId": "1729158941",
+      "title": "Koi Na Koi",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-08-10",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/d8/88/82d8885e-cf1c-083b-ad1c-db38a94a1017/197083573207_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/koi-na-koi-single/1729158941",
+        "spotify": "https://open.spotify.com/album/7FkAh57udO3siRMv73eu8x"
+      },
+      "tracks": [
+        {
+          "title": "Koi Na Koi",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 123,
+          "firstReleased": "2022-08-10",
+          "appleMusic": "https://music.apple.com/in/album/koi-na-koi/1729158941?i=1729159219"
+        }
+      ]
+    },
+    {
+      "id": "1729156458",
+      "appleId": "1729156458",
+      "title": "Dil De Tukde",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-05-15",
+      "trackCount": 1,
+      "label": "JBK Records",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/84/11/fb84117f-3652-0124-47f8-79b7706498f4/196864877053_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/dil-de-tukde-single/1729156458",
+        "spotify": "https://open.spotify.com/album/09A7wqyjU1O6xWjiSNlOJd"
+      },
+      "tracks": [
+        {
+          "title": "Dil De Tukde",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 234,
+          "firstReleased": "2022-05-15",
+          "appleMusic": "https://music.apple.com/in/album/dil-de-tukde/1729156458?i=1729156469"
+        }
+      ]
+    },
+    {
+      "id": "1729156927",
+      "appleId": "1729156927",
+      "title": "Duniya",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-02-27",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/56/b1/c756b136-1ae1-8b18-5f43-0d33d9ff106a/196779996764_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/duniya-single/1729156927",
+        "spotify": "https://open.spotify.com/album/72arJRD6gf4MWsr2sd9bxS"
+      },
+      "tracks": [
+        {
+          "title": "Duniya",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 160,
+          "firstReleased": "2022-02-27",
+          "appleMusic": "https://music.apple.com/in/album/duniya/1729156927?i=1729156936"
+        }
+      ]
+    },
+    {
+      "id": "1729151481",
+      "appleId": "1729151481",
+      "title": "Honsle",
+      "artists": "Karan Rajput",
+      "type": "ep",
+      "releaseDate": "2022-02-25",
+      "trackCount": 5,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/52/a1/a652a1bf-dad5-7630-8d00-5ba0924c98bf/196776106241_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/honsle-ep/1729151481",
+        "spotify": "https://open.spotify.com/album/1k5GmVHLpPz90fFEaifuk9"
+      },
+      "tracks": [
+        {
+          "title": "Honsle",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 175,
+          "firstReleased": "2022-02-25",
+          "appleMusic": "https://music.apple.com/in/album/honsle/1729151481?i=1729151489"
+        },
+        {
+          "title": "Mai (feat. Mehakdeep Singh)",
+          "artists": "Karan Rajput",
+          "trackNumber": 2,
+          "durationSec": 204,
+          "firstReleased": "2022-02-25",
+          "appleMusic": "https://music.apple.com/in/album/mai-feat-mehakdeep-singh/1729151481?i=1729151494"
+        },
+        {
+          "title": "Emotions",
+          "artists": "Karan Rajput",
+          "trackNumber": 3,
+          "durationSec": 186,
+          "firstReleased": "2021-06-05",
+          "appleMusic": "https://music.apple.com/in/album/emotions/1729151481?i=1729151503"
+        },
+        {
+          "title": "Tere Shehar",
+          "artists": "Karan Rajput",
+          "trackNumber": 4,
+          "durationSec": 150,
+          "firstReleased": "2020-07-01",
+          "appleMusic": "https://music.apple.com/in/album/tere-shehar/1729151481?i=1729151809"
+        },
+        {
+          "title": "Doubt",
+          "artists": "Karan Rajput",
+          "trackNumber": 5,
+          "durationSec": 198,
+          "firstReleased": "2019-12-06",
+          "appleMusic": "https://music.apple.com/in/album/doubt/1729151481?i=1729151822"
+        }
+      ]
+    },
+    {
+      "id": "1729151723",
+      "appleId": "1729151723",
+      "title": "Drop",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-01-17",
+      "trackCount": 1,
+      "label": "UrbanLok",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/ce/16/0dce1605-a13d-ac39-0155-1ef8e195ce91/196697558662_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/drop-single/1729151723",
+        "spotify": "https://open.spotify.com/album/0s2orqM1hl41vhtWTnMeIY"
+      },
+      "tracks": [
+        {
+          "title": "Drop",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 141,
+          "firstReleased": "2019-03-18",
+          "appleMusic": "https://music.apple.com/in/album/drop/1729151723?i=1729151727"
+        }
+      ]
+    },
+    {
+      "id": "1729151479",
+      "appleId": "1729151479",
+      "title": "Mistake",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2022-01-17",
+      "trackCount": 1,
+      "label": "Folkstylee Music",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/19/05/601905eb-5c64-8160-a0fa-121eeaf0e099/196697520430_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/mistake-single/1729151479",
+        "spotify": "https://open.spotify.com/album/0wetH4pSzCLj9H4dfbYDym"
+      },
+      "tracks": [
+        {
+          "title": "Mistake",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 167,
+          "firstReleased": "2021-06-06",
+          "appleMusic": "https://music.apple.com/in/album/mistake/1729151479?i=1729151488"
+        }
+      ]
+    },
+    {
+      "id": "sp-7ADUclViKGynOn3r20Ph9v",
+      "title": "L.A",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2021-03-20",
+      "trackCount": 1,
+      "label": "FamBeats Studios",
+      "genre": null,
+      "explicit": false,
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273a6317c616f2ba4ad63f694b4",
+      "links": {
+        "spotify": "https://open.spotify.com/album/7ADUclViKGynOn3r20Ph9v"
+      },
+      "tracks": [
+        {
+          "title": "L.A",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 165,
+          "firstReleased": "2021-03-20"
+        }
+      ],
+      "note": "Listed on Spotify; not found on Apple Music."
+    },
+    {
+      "id": "sp-7GqvRCtCHCBqVddIRhDnEc",
+      "title": "Mai Kisan",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2020-12-09",
+      "trackCount": 1,
+      "label": "FamBeats Studio",
+      "genre": null,
+      "explicit": false,
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273039712d9ee5dac98352b7aa3",
+      "links": {
+        "spotify": "https://open.spotify.com/album/7GqvRCtCHCBqVddIRhDnEc"
+      },
+      "tracks": [
+        {
+          "title": "Mai Kisan",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 116,
+          "firstReleased": "2020-12-09"
+        }
+      ],
+      "note": "Listed on Spotify; not found on Apple Music."
+    },
+    {
+      "id": "1732247873",
+      "appleId": "1732247873",
+      "title": "Pulwama (feat. Manu V)",
+      "artists": "Karan Rajput",
+      "type": "single",
+      "releaseDate": "2019-02-14",
+      "trackCount": 1,
+      "label": "UrbanLok",
+      "genre": "Worldwide",
+      "explicit": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dd/06/64/dd06646e-5583-1f37-e92f-af765aa04087/5063413929882_cover.jpg/1200x1200bb.jpg",
+      "links": {
+        "appleMusic": "https://music.apple.com/in/album/pulwama-feat-manu-v-single/1732247873",
+        "spotify": "https://open.spotify.com/album/6vMtpOeT9GBbkldyf4IBEd"
+      },
+      "tracks": [
+        {
+          "title": "Pulwama (feat. Manu V)",
+          "artists": "Karan Rajput",
+          "trackNumber": 1,
+          "durationSec": 102,
+          "firstReleased": "2019-02-14",
+          "appleMusic": "https://music.apple.com/in/album/pulwama-feat-manu-v/1732247873?i=1732247884"
+        }
+      ]
+    }
+  ]
+}
